@@ -2,6 +2,7 @@
 
 ## 1.1 The Tower of Hanoi
 세 개의 기둥 중 하나에 꽂혀 있는 8개의 원판을 다른 기둥으로 옮기는 문제이다. 원판은 크기 순으로 꽂혀 있으며, 한 번에 하나의 원판만 옮길 수 있다. 또한, 큰 원판이 작은 원판 위에 있어서는 안 된다.
+[Game](https://www.mathsisfun.com/games/towerofhanoi.html)
 
 ### Generalization
 가장 좋은 방법은 문제를 일반화하는 것이다.
